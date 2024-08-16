@@ -41,9 +41,9 @@ Tested on: Stendhal 1.4.1 - Minecraft 1.21
    python3 stendhals_quill.py
    ```
 2. Use the GUI to select your input file, set book details, and process the content.
-![Stendhals Quill](Screenshots/Stendhals_Quill.png)
+![Stendhals Quill](Screenshots/Stendhals_Quill.PNG)
 3. The processed books will be saved in the selected output folder (or a default folder if none is selected - don't forget to set it inside the script!).
-![Screenshot of Stendhals Quill Success processing](Screenshots/Success_stq.png)
+![Screenshot of Stendhals Quill Success processing](Screenshots/Success_stq.PNG)
 4. If you haven't selected the Stendhal books folder as Output folder, move the .stendhal files to ' .minecraft\config\stendhal\books ' 
 5. Import the books in-game using the Stendhal Mod and sign.
 ![Import process (in-game)](Screenshots/Import.png)
