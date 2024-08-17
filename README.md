@@ -4,7 +4,7 @@ This is a Python application designed to process and format books (or big chunks
 
 ## About Stendhal
 
-[Stendhal](https://modrinth.com/mod/stendhal) is a Minecraft mod that allows players to create and manage custom books in-game. This application helps in preparing content for use with Stendhal by splitting large texts into Minecraft-friendly book formats.
+[Stendhal](https://modrinth.com/mod/stendhal) Stendhal is a client-side Fabric mod offering new and enhanced visual utilities for books, signs, anvil and the in-game chat. This Python application helps in preparing content for use with Stendhal Mod by splitting large texts into Minecraft-friendly book formats.
 Tested on: Stendhal 1.4.1 - Minecraft 1.21
 
 ## Features
